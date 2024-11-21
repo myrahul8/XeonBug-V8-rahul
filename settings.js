@@ -14,7 +14,7 @@ global.ownernomer = "923444844060"
 global.ownername = "Aarav Panchal"
 global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
-global.location = "Pakistan, Karachi, Karachi"
+global.location = "Pakistan, Karachi, Karachi, India"
 
 global.ownernumber = '923444844060'  //creator number
 global.ownername = 'Aarav Panchal' //owner name
