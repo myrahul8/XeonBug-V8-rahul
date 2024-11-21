@@ -40,7 +40,7 @@ global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
-global.anti91 = false //auto block +91 
+global.anti2 = false //auto block +2 
 global.autoswview = false //auto view status/story
 
 //menu type 
